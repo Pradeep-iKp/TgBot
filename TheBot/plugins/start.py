@@ -56,7 +56,7 @@ Join **@NexaBotsUpdates**""",
             [
                 [
                     InlineKeyboardButton(
-                        "Repo", url="https://github.com/Itz-fork/Pyro-Tg-Bot"
+                        "Repo", url="https://github.com/Itz-fork/PyrogramExampleBot"
                     )
                 ]
             ]
