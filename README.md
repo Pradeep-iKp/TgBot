@@ -33,7 +33,33 @@ If you need more commands,
 
 [Go Here](https://github.com/Itz-fork/PyrogramExample/blob/6b91ba651368c06ec87554991f191a82a6d02763/TheBot/plugins/start.py) Then Start Typing [From This Line](https://github.com/Itz-fork/PyrogramExample/blob/6b91ba651368c06ec87554991f191a82a6d02763/TheBot/plugins/start.py#L13)! Then Type Lines Till [This Line](https://github.com/Itz-fork/PyrogramExample/blob/6b91ba651368c06ec87554991f191a82a6d02763/TheBot/plugins/start.py#L40)
 
-<script src="https://gist.github.com/Itz-fork/6c90dbd7c6b9eaab3de37f7ddafb38c0.js"></script>
+```python
+@Client.on_message(filters.command(["start", "start@Pyro_Tg_Bot"]))
+async def start(_, message: Message):
+    await message.reply_text(
+        f"""<b>Hi {message.from_user.first_name} 😉️!</b>
+Heya I'm Alive :)
+Made by **@Bruh_0x** for Noob/Beginners Like Him!
+Join **@NexaBotsUpdates**""",
+        reply_markup=InlineKeyboardMarkup(
+            [
+                [
+                    InlineKeyboardButton(
+                        "🔰️ My Updates Channel 🔰️", url="https://t.me/NexaBotsUpdates"
+                    ),
+                    InlineKeyboardButton(
+                        "⚜️ Support Group ⚜️", url="https://t.me/Nexa_bots"
+                    )
+                ],
+                [
+                    InlineKeyboardButton(
+                        "Follow On Github", url="https://github.com/Itz-fork"
+                    )
+                ]
+            ]
+        )
+    )
+```
 
 **Replace @Pyro_Tg_Bot with your bot username in commands!**
 
