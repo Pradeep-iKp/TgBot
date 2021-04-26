@@ -68,7 +68,7 @@ Join **@NexaBotsUpdates**""",
 
 [Go Here](https://github.com/Itz-fork/PyrogramExample/blob/6b91ba651368c06ec87554991f191a82a6d02763/TheBot/plugins/start.py) Then Start Typing [From This Line](https://github.com/Itz-fork/PyrogramExample/blob/6b91ba651368c06ec87554991f191a82a6d02763/TheBot/plugins/start.py#L45)! Then Type Lines Till [This Line](https://github.com/Itz-fork/PyrogramExample/blob/6b91ba651368c06ec87554991f191a82a6d02763/TheBot/plugins/start.py#L64)
 
-```
+```python
 @Client.on_message(filters.command(["repo", "repo@Pyro_Tg_Bot"]) & filters.private)
 async def repo(_, message: Message):
     await message.reply_text(
