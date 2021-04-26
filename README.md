@@ -8,6 +8,7 @@ This is an example telegram bot writtn in **Python** using **Pyrogram**
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Itz-fork/PyrogramExample)
 
 ## On VPS / Pc
+**Before Doing Anything Install Python 3! To Install It [Click Here](https://www.python.org/downloads/)**
 
 ```
 # To Clone This Repo
