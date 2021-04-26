@@ -64,7 +64,7 @@ Join **@NexaBotsUpdates**""",
 **Replace @Pyro_Tg_Bot with your bot username in commands!**
 
 
-### For Commands That Works On Only Private
+### For Commands That Works Only On Private
 
 [Go Here](https://github.com/Itz-fork/PyrogramExample/blob/6b91ba651368c06ec87554991f191a82a6d02763/TheBot/plugins/start.py) Then Start Typing [From This Line](https://github.com/Itz-fork/PyrogramExample/blob/6b91ba651368c06ec87554991f191a82a6d02763/TheBot/plugins/start.py#L45)! Then Type Lines Till [This Line](https://github.com/Itz-fork/PyrogramExample/blob/6b91ba651368c06ec87554991f191a82a6d02763/TheBot/plugins/start.py#L64)
 
