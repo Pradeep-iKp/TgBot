@@ -11,7 +11,7 @@ This is an example telegram bot writtn in **Python** using **Pyrogram**
 
 ```
 # To Clone This Repo
-git clone https://github.com/Itz-fork/PyrogramExample
+https://github.com/Itz-fork/PyrogramExampleBot
 
 # Fill Configs with your own values in config.py
 
@@ -31,7 +31,7 @@ If you need more commands,
 
 ### For Commands That Works On Both Private and Group
 
-[Go Here](https://github.com/Itz-fork/PyrogramExample/blob/6b91ba651368c06ec87554991f191a82a6d02763/TheBot/plugins/start.py) Then Start Typing [From This Line](https://github.com/Itz-fork/PyrogramExample/blob/6b91ba651368c06ec87554991f191a82a6d02763/TheBot/plugins/start.py#L13)! Then Type Lines Till [This Line](https://github.com/Itz-fork/PyrogramExample/blob/6b91ba651368c06ec87554991f191a82a6d02763/TheBot/plugins/start.py#L40)
+[Go Here](https://github.com/Itz-fork/PyrogramExampleBot/blob/6b91ba651368c06ec87554991f191a82a6d02763/TheBot/plugins/start.py) Then Start Typing [From This Line](https://github.com/Itz-fork/PyrogramExampleBot/blob/6b91ba651368c06ec87554991f191a82a6d02763/TheBot/plugins/start.py#L13)! Then Type Lines Till [This Line](https://github.com/Itz-fork/PyrogramExampleBot/blob/6b91ba651368c06ec87554991f191a82a6d02763/TheBot/plugins/start.py#L40)
 
 ```python
 @Client.on_message(filters.command(["start", "start@Pyro_Tg_Bot"]))
@@ -66,7 +66,7 @@ Join **@NexaBotsUpdates**""",
 
 ### For Commands That Works Only On Private
 
-[Go Here](https://github.com/Itz-fork/PyrogramExample/blob/6b91ba651368c06ec87554991f191a82a6d02763/TheBot/plugins/start.py) Then Start Typing [From This Line](https://github.com/Itz-fork/PyrogramExample/blob/6b91ba651368c06ec87554991f191a82a6d02763/TheBot/plugins/start.py#L45)! Then Type Lines Till [This Line](https://github.com/Itz-fork/PyrogramExample/blob/6b91ba651368c06ec87554991f191a82a6d02763/TheBot/plugins/start.py#L64)
+[Go Here](https://github.com/Itz-fork/PyrogramExampleBot/blob/6b91ba651368c06ec87554991f191a82a6d02763/TheBot/plugins/start.py) Then Start Typing [From This Line](https://github.com/Itz-fork/PyrogramExampleBot/blob/6b91ba651368c06ec87554991f191a82a6d02763/TheBot/plugins/start.py#L45)! Then Type Lines Till [This Line](https://github.com/Itz-fork/PyrogramExampleBot/blob/6b91ba651368c06ec87554991f191a82a6d02763/TheBot/plugins/start.py#L64)
 
 ```python
 @Client.on_message(filters.command(["repo", "repo@Pyro_Tg_Bot"]) & filters.private)
@@ -80,7 +80,7 @@ Join **@NexaBotsUpdates**""",
             [
                 [
                     InlineKeyboardButton(
-                        "Repo", url="https://github.com/Itz-fork/Pyro-Tg-Bot"
+                        "Repo", url="https://github.com/Itz-fork/PyrogramExampleBot"
                     )
                 ]
             ]
