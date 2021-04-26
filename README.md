@@ -17,7 +17,7 @@ https://github.com/Itz-fork/PyrogramExampleBot
 # Fill Configs with your own values in config.py
 
 # To Enter The Folder
-cd PyrogramExample
+cd PyrogramExampleBot
 
 # To Install Requirements
 pip3 install -r requirements.txt
