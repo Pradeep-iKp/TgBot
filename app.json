@@ -1,14 +1,14 @@
 {
     "name": "Pyrogram Example Bot",
     "description": "An Example Bot Written In Python Using Pyrogram",
-    "logo": "https://telegra.ph/file/5cfe95df7f46433cf1f25.jpg",
+    "logo": "https://telegra.ph/file/d6587854a2b8b3381605b.jpg",
     "keywords": [
         "Pyrogram",
         "Telegram Bot"
     ],
-    "website": "https://t.me/NexaBotsUpdates",
-    "repository": "https://github.com/Itz-fork/PyrogramExample",
-    "success_url": "https://t.me/NexaBotsUpdates",
+    "website": "https://t.me/Animemusicarchive6",
+    "repository": "",
+    "success_url": "https://t.me/Yeageristbots",
     "env": {
         "BOT_TOKEN": {
             "description": "Your Bot Token from @BotFather",
