@@ -17,22 +17,22 @@ async def start(_, message: Message):
 
 Heya I'm Alive :)
 
-Made by **@Bruh_0x** for Noob/Beginners Like Him!
+Made by **@Amalbiju154** for Noob/Beginners Like Him!
 
-Join **@NexaBotsUpdates**""",
+Join **@Animemusicarchive6**""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🔰️ My Updates Channel 🔰️", url="https://t.me/NexaBotsUpdates"
+                        "🔰️ My Updates Channel 🔰️", url="https://t.me/Animemusicarchive6"
                     ),
                     InlineKeyboardButton(
-                        "⚜️ Support Group ⚜️", url="https://t.me/Nexa_bots"
+                        "⚜️ Support Group ⚜️", url="https://t.me/Yeageristbots"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "Follow On Github", url="https://github.com/Itz-fork"
+                        "Follow On Github", url="https://github.com/Achu2234"
                     )
                 ]
             ]
@@ -49,14 +49,14 @@ async def repo(_, message: Message):
 
 Kk Click On The Below Button For The Repo :)
 
-Made by **@Bruh_0x** for Noob/Beginners Like Him!
+Made by **@Amalbiju154** for Noob/Beginners Like Him!
 
 Join **@NexaBotsUpdates**""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "Repo", url="https://github.com/Itz-fork/PyrogramExampleBot"
+                        "Repo", url=""
                     )
                 ]
             ]
