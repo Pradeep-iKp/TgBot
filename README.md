@@ -50,6 +50,7 @@ Please don't copy paste cuz i made this for learning! Not for copy pasting!
 After 1 or 2 months (Actually Can't Remember Tho 😅) I realize Copy Pasting can't make a programmer So Don't Copy Paste :) 😄
 
 Will Add Some Extra Thing When I Have Time 😇! Currently Busy 😃
+....
 
 # Support
 <a href="https://t.me/Animemusicarchive6"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
