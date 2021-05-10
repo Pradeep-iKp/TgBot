@@ -36,11 +36,6 @@ If you need more commands,
 
 **Replace @Pyro_Tg_Bot with your bot username in commands!**
 
-
-
-
-
-```
 # Support
 <a href="https://t.me/Animemusicarchive6"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
