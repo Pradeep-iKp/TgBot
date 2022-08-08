@@ -6,9 +6,9 @@
         "Pyrogram",
         "Telegram Bot"
     ],
-    "website": "https://t.me/Animemusicarchive6",
+    "website": "https://t.me/bjsodha",
     "repository": "",
-    "success_url": "https://t.me/Yeageristbots",
+    "success_url": "https://t.me/bjsodha",
     "env": {
         "BOT_TOKEN": {
             "description": "Your Bot Token from @BotFather",
